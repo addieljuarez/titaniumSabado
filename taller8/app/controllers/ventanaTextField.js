@@ -18,3 +18,28 @@ $.ventanaTextField.addEventListener('click', function(e){
 	// Ti.API.info('x===' +e.x + ' y===='+e.y);
 	// Ti.API.info(e.source);
 });
+
+
+
+
+
+
+$.botonEnviar.addEventListener('click', function(e){
+	
+	if ($.input.value != '') {
+		
+		var resultado = $.input.value;
+		
+		var textFieldFinish = Alloy.createController('textFieldFinish', resultado).getView();
+		textFieldFinish.open();
+	}else{
+		alert('no dejes el campo vacio :)');
+	}
+	
+});
+
+
+
+
+
+

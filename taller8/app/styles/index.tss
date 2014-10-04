@@ -22,3 +22,10 @@
 	title:'click',
 	top:20,
 }
+'#botonImagen':{
+	height:40,
+	width:150,
+	borderColor:'#000',
+	title:'imagen',
+	top:20,
+}

@@ -4,5 +4,10 @@ $.boton1.addEventListener('click', function(){
 	ventanaTextField.open();
 });
 
+$.botonImagen.addEventListener('click', function(e){
+	var ventanaImagen = Alloy.createController('ventanaImagen').getView();
+	ventanaImagen.open();
+});
+
 
 $.index.open();

@@ -1,0 +1,10 @@
+
+".container" : {
+  backgroundColor:'#000',
+}
+'#resultado':{
+	color:'#fff',
+	font:{
+		fontSize:30
+	},
+}

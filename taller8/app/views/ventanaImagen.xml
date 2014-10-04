@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<ImageView id="imagenLocal"></ImageView>
+		<ImageView id="imagenRemota"></ImageView>
+		<ImageView id="imagenCamara"></ImageView>
+	</Window>
+</Alloy>

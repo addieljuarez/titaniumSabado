@@ -3,5 +3,6 @@
 		<View id="viewPrimero"></View>
 		<View id="viewSegundo"></View>
 		<Button id="boton1"></Button>
+		<Button id="botonImagen"></Button>
 	</Window>
 </Alloy>

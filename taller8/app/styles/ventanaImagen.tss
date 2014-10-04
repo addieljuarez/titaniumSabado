@@ -1,0 +1,23 @@
+
+".container" : {
+  layout:'vertical',
+  backgroundColor:'gray',
+}
+'#imagenLocal':{
+	top:20,
+	height:100,
+	width:100,
+	borderColor:'#000',
+}
+'#imagenRemota':{
+	top:10,
+	height:100,
+	width:100,
+	borderColor:'#000',
+}
+'#imagenCamara':{
+	top:10,
+	height:100,
+	width:100,
+	borderColor:'#000',
+}
