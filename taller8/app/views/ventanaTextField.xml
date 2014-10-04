@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<Button id="botonCerrar"></Button>
+		<TextField id="input"></TextField>
+		<Button id="botonEnviar"></Button>
+	</Window>
+</Alloy>
