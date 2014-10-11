@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<Button id="cerrar"></Button>
+		<Label id="titulo"></Label>
+		<ImageView id="imagen"></ImageView>
+		<Label id="descripcion"></Label>
+	</Window>
+</Alloy>

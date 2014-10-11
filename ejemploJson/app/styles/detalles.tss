@@ -1,0 +1,33 @@
+
+".container" : {
+  backgroundColor:'#fff',
+  layout:'vertical',
+}
+'#cerrar':{
+	top:20,
+	height:40,
+	borderColor:'#000',
+	left:0,
+	right:0,
+	title:'cerrar',
+}
+'#titulo':{
+	top:20,
+	font:{
+		fontSize:25,
+	},
+	color:'red',
+}
+'#imagen':{
+	top:20,
+	height:100,
+	width:100,
+	borderColor:'blue',
+}
+'#descripcion':{
+	top:30,
+	font:{
+		fontSize:20,
+	},
+	color:'#000',
+}
