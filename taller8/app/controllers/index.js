@@ -9,5 +9,10 @@ $.botonImagen.addEventListener('click', function(e){
 	ventanaImagen.open();
 });
 
+$.botonWebView.addEventListener('click', function(e){
+	var ventanaWebView = Alloy.createController('ventanaWebView').getView();
+	ventanaWebView.open();
+});
+
 
 $.index.open();

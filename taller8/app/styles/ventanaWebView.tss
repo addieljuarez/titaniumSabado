@@ -1,0 +1,13 @@
+
+".container" : {
+  backgroundColor:'blue',
+}
+'#cerrar':{
+	top:20,
+	height:40,
+	borderColor:'#000',
+	title:'cerrar',
+}
+'#webView':{
+	top:60,
+}

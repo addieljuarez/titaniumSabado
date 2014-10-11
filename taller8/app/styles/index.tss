@@ -29,3 +29,10 @@
 	title:'imagen',
 	top:20,
 }
+'#botonWebView':{
+	height:40,
+	width:150,
+	borderColor:'#000',
+	title:'WebView',
+	top:20,
+}
