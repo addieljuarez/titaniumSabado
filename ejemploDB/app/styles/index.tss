@@ -1,0 +1,41 @@
+".container": {
+	backgroundColor:"white",
+	layout:'vertical',
+}
+'#inputNombre':{
+	top:50,
+	height:50,
+	width:200,
+	borderColor:'#000',
+	hintText:'Nombre',
+}
+'#inputDireccion':{
+	top:20,
+	height:50,
+	width:200,
+	borderColor:'#000',
+	hintText:'Direccion',
+}
+'#inputTelefono':{
+	top:20,
+	height:50,
+	width:200,
+	borderColor:'#000',
+	hintText:'Telefono',
+	keyboardType:Titanium.UI.KEYBOARD_PHONE_PAD,
+}
+'#inputEmail':{
+	top:20,
+	height:50,
+	width:200,
+	borderColor:'#000',
+	hintText:'Email',
+}
+'#botonEnviar':{
+	top:20,
+	height:40,
+	width:150,
+	borderColor:'#000',
+	title:'enviar',
+}
+

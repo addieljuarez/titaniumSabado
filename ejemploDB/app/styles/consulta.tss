@@ -1,0 +1,17 @@
+
+".container" : {
+  backgroundColor:'#fff',
+  layout:'vertical',
+}
+'#cerrar':{
+	top:20,
+	height:40,
+	left:0,
+	right:0,
+	borderColor:'#000',
+	title:'cerrar',
+}
+'#tableView':{
+	top:10,
+	borderColor:'red',
+}

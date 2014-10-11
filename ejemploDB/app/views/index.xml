@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<Label>hola</Label>
+		<TextField id="inputNombre"></TextField>
+		<TextField id="inputDireccion"></TextField>
+		<TextField id="inputTelefono"></TextField>\
+		<TextField id="inputEmail"></TextField>
+		<Button id="botonEnviar"></Button>
+	</Window>
+</Alloy>
