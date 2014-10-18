@@ -1,0 +1,24 @@
+
+".container" : {
+  
+}
+'#logout':{
+	top:20,
+	height:40,
+	borderColor:'#000',
+	left:0,
+	right:0,
+	title:'cerrar sesión',
+}
+'#imagen':{
+	top:100,
+	height:150,
+	width:150,
+	borderColor:'#000',
+}
+'#botonSubir':{
+	top:280,
+	height:50,
+	width:150,
+	title:'subir Foto',
+}

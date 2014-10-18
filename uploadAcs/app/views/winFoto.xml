@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container" backgroundColor="blue">
+		<Button id="logout"></Button>
+		<ImageView id="imagen"></ImageView>
+		<Button id="botonSubir"></Button>
+	</Window> 
+</Alloy>
