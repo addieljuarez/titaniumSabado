@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<Button id="botonFacebook"></Button>
+		<Button id="logout"></Button>
+		<Label id="nombre"></Label>
+	</Window>
+</Alloy>
